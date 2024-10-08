@@ -19,11 +19,13 @@ For this you will be using the following tools:
 - git
 - github
 
-| **Week** | **Content**                                         | **Lectures** | **Exercise** |
-| -------- | --------------------------------------------------- | ------------ | ------------ |
-| 1        | query and load a CSV file in DuckDB                 | 00-04        | 0            |
-| 2        | filtering, conditions, sorting, functions, grouping |              |              |
-| 3        | performing joins and querying multiple tables       |              |              |
-| 4        | window functions, CTEs, and recursive queries       |              |              |
-| 5        | connect duckdb to Python, theory on OLAP vs OLTP    |              |              |
-| 6        | exam                                                |              |              |
+| **Week** | **Content**                                            | **Lectures** | **Exercise** |
+| -------- | ------------------------------------------------------ | ------------ | ------------ |
+| 1        | query and load a CSV file in DuckDB                    | 00-04        | 0            |
+| 2        | filtering, conditions, sorting, functions, grouping    |              |              |
+| 3        | performing joins and querying multiple tables          |              |              |
+| 4        | window functions, CTEs, and recursive queries          |              |              |
+| 5        | connect duckdb to Python, data security, SQL injection |              |              |
+| 6        | exam                                                   |              |              |
+
+<!-- OLTP vs OLAP in dimensional modeling -->
