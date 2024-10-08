@@ -19,11 +19,11 @@ For this you will be using the following tools:
 - git
 - github
 
-| **Week** | **Topics**                         | **Content**                                         | **Exercise** |
-| -------- | ---------------------------------- | --------------------------------------------------- | ------------ |
-| 1        | intro to SQL, DuckDB DBeaver, CRUD | query and load a CSV file in DuckDB                 |              |
-| 2        | filtering, aggregation, grouping   | filtering, conditions, sorting, functions, grouping |              |
-| 3        | joins & relationships              | performing joins and querying multiple tables       |              |
-| 4        | advanced queries                   | using window functions, CTEs, and recursive queries |              |
-| 5        | duckdb in Python, OLAP vs OLTP     | connect duckdb to Python, theory on OLAP vs OLTP    |              |
-| 6        | Exam                               |                                                     |              |
+| **Week** | **Content**                                         | **Lectures** | **Exercise** |
+| -------- | --------------------------------------------------- | ------------ | ------------ |
+| 1        | query and load a CSV file in DuckDB                 | 00-04        | 0            |
+| 2        | filtering, conditions, sorting, functions, grouping |              |              |
+| 3        | performing joins and querying multiple tables       |              |              |
+| 4        | window functions, CTEs, and recursive queries       |              |              |
+| 5        | connect duckdb to Python, theory on OLAP vs OLTP    |              |              |
+| 6        | exam                                                |              |              |
