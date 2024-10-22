@@ -13,20 +13,20 @@ Fill in this table either by copying this into your own markdown file or copy it
 | terminology | explanation |
 | ----------- | ----------- |
 | CRUD        |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
+| query       |             |
+| statement   |             |
+| DDL         |             |
+| DML         |             |
 | idempotent  |             |
 | OLAP        |             |
 | OLTP        |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
+| table       |             |
+| schema      |             |
+| row         |             |
+| record      |             |
+| column      |             |
+| database    |             |
+| persistance |             |
 |             |             |
 |             |             |
 |             |             |
