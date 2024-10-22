@@ -1,6 +1,6 @@
 # Exercise 0 - Introduction
 
-In this exercise, you get to familiarize yourself with SQL.
+In this exercise, you get to familiarize yourself with SQL. 
 
 ## 2. Theory questions
 
