@@ -21,7 +21,7 @@ For this you will be using the following tools:
 
 | **Week** | **Content**                                            | **Lectures** | **Exercise** |
 | -------- | ------------------------------------------------------ | ------------ | ------------ |
-| 1        | query and load a CSV file in DuckDB                    | 00-04        | 0            |
+| 1        | intro, query, load a CSV file in DuckDB, CLI           | 00-04        | 0            |
 | 2        | filtering, conditions, sorting, functions, grouping    |              |              |
 | 3        | performing joins and querying multiple tables          |              |              |
 | 4        | window functions, CTEs, and recursive queries          |              |              |
