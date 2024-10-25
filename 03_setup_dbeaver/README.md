@@ -4,14 +4,11 @@ In this lecture we'll setup duckdb for the system and for visual studio code. St
 
 [duckdb installation](https://duckdb.org/docs/installation/?version=stable&environment=cli&platform=macos&download_method=package_manager)
 
-## duckdb CLI 
 
-- in memory 
-- open up database
+## dbeaver
 
-## testing out
 
-- read csv 
+
 
 ## Other videos 📹
 

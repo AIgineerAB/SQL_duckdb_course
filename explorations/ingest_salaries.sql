@@ -1,8 +1,6 @@
-
 CREATE TABLE
-    IF NOT EXISTS salaries AS (
-        SELECT
-            *
-        FROM
-            "../data/salaries.csv"
-    );
+    IF NOT EXISTS job_salaries AS (
+SELECT
+	*
+FROM
+	read_csv_auto('../data/salaries.csv'));
