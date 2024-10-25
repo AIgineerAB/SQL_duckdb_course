@@ -1,6 +1,6 @@
 # Exercise 0 - Introduction
 
-In this exercise, you get to familiarize yourself with SQL. 
+In this exercise, you get to familiarize yourself with SQL.
 
 ## 2. Theory questions
 
@@ -16,7 +16,7 @@ These study questions are good to get an overview of how SQL and relational data
 
 &nbsp; e) Explain the differences between the Data Manipulation Language (DML) and Data Definition Language (DDL).
 
-&nbsp; f) What type of dot commands are there in duckdb? 
+&nbsp; f) What type of dot commands are there in duckdb?
 
 &nbsp; g) Is DuckDB optimized for OLAP or OLTP workloads?
 
@@ -24,6 +24,7 @@ These study questions are good to get an overview of how SQL and relational data
 
 &nbsp; i) Is DuckDB suitable for real-time data processing?
 
+&nbsp; f) Difference between read_csv and read_csv_auto
 
 ## Glossary
 
@@ -52,3 +53,10 @@ Fill in this table either by copying this into your own markdown file or copy it
 | dot commands        |             |
 | CLI                 |             |
 | bash                |             |
+| type inference      |             |
+| wildcard selection  |             |
+| selective query     |             |
+| clause              |             |
+| aliasing            |             |
+| SQL statement       |             |
+|                     |             |

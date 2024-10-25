@@ -41,6 +41,12 @@ FROM
 WHERE
     table_name = 'hemnet';
 
+
+
+
+
+
+
 -- CTE 
 WITH
     price_difference AS (

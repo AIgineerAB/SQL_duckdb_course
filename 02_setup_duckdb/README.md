@@ -5,7 +5,11 @@ In this lecture we'll setup duckdb for the system and for visual studio code. St
 [duckdb installation](https://duckdb.org/docs/installation/?version=stable&environment=cli&platform=macos&download_method=package_manager)
 
 
-## Duckdb in visual studio code
+## dbeaver
+
+
+
+<!-- ## Duckdb in visual studio code
 - install sql tools extension 
 - install duckdb sql tools extension
 - remove session in sqltools
@@ -14,8 +18,8 @@ In this lecture we'll setup duckdb for the system and for visual studio code. St
 ```json
   "sqltools.autoOpenSessionFiles": false,
   "sqltools.results.reuseTabs": "connection"
-```
-
+``` -->
+<!-- 
 ## SQL tools 
 
 in .vscode/settings.json add 
@@ -26,7 +30,7 @@ in .vscode/settings.json add
 
 and change `database` key to `databaseFilePath`.
 
-This disables a session file that opens automatically when connecting to a database and the second prevents sqltools to open new tabs each time you run a selection with cmd+E cmd+E or ctrl+E ctrl+E.
+This disables a session file that opens automatically when connecting to a database and the second prevents sqltools to open new tabs each time you run a selection with cmd+E cmd+E or ctrl+E ctrl+E. -->
 
 ## Other videos 📹
 

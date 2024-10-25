@@ -165,3 +165,7 @@ cython_debug/
 *.DS_Store
 
 .vscode
+
+# dbeaver
+.project
+.dbeaver
