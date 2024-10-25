@@ -1,9 +1,8 @@
-# Setup duckdb
+# Setup dbeaver
 
-In this lecture we'll setup duckdb for the system and for visual studio code. Start by installing duckdb for your system 
 
-[duckdb installation](https://duckdb.org/docs/installation/?version=stable&environment=cli&platform=macos&download_method=package_manager)
-
+Watch this video on how to setup dbeaver. 
+<!-- [![setup duckdb and dbeaver and testing](https://github.com/kokchun/assets/blob/main/oop_advanced/dbeaver_setup.png?raw=true)](https://youtu.be/b9VMLSXKHwk) -->
 
 ## dbeaver
 

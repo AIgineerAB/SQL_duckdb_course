@@ -59,4 +59,6 @@ Fill in this table either by copying this into your own markdown file or copy it
 | clause              |             |
 | aliasing            |             |
 | SQL statement       |             |
+| persistent database |             |
+| .wal                |             |
 |                     |             |

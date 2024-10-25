@@ -20,12 +20,14 @@ SELECT
 	work_year)
 FROM
 	job_salaries;
+
 -- check uniqueness of a column
 SELECT
 	DISTINCT
     salary_currency AS unique_currency
 FROM
 	job_salaries;
+
 -- count number of unique occurences in a column, also giving aliasing clause AS
 SELECT
 	COUNT(DISTINCT salary_currency) AS number_currencies
