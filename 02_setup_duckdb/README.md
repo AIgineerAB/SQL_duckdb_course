@@ -75,5 +75,10 @@ SELECT * FROM videos;
 Now close down the database connection and open it up again, then do wildcard selection once more and test out `desc` as well to see that the data is persistent. Close down the database connection, git commit your changes and push it to github.
 
 ## Other videos 📹
+- [Duckdb tutorial for beginners - MotherDuck](https://www.youtube.com/watch?v=ZX5FdqzGT1E&t=19s)
 
 ## Read more 👓
+
+- [csv import - duckdb docs](https://duckdb.org/docs/data/csv/overview)
+- [csv import tips - duckdb docs](https://duckdb.org/docs/data/csv/tips)
+- [importing data - duckdb docs](https://duckdb.org/docs/data/overview)
