@@ -16,6 +16,56 @@ SELECT
 FROM
     hemnet;
 
+SELECT
+	COUNT(final_price)
+FROM
+	hemnet
+WHERE
+	final_price IS NOT NULL;
+
+SELECT
+	COUNT(*)
+FROM
+	hemnet
+WHERE
+	sale_date LIKE '%2022-06%';
+   
+
+SELECT
+	MIN(final_price) min, 
+	AVG(final_price) average,
+	MEDIAN(final_price) as median,
+	MAX(final_price) as max
+FROM
+	hemnet;
+
+
+SELECT COUNT(DISTINCT commune) FROM hemnet;
+
+
+WITH total_homes AS (
+SELECT
+	COUNT(*) AS total_count
+FROM
+	hemnet),
+over_10M AS (
+SELECT
+	COUNT(*) AS over_10M_count
+FROM
+	hemnet
+WHERE
+	final_price > 10000000)
+SELECT 
+	over_10M.over_10M_count,
+	total_homes.total_count,
+	(over_10M.over_10M_count / total_homes.total_count)* 100 AS "over_10M(%)"
+FROM
+	total_homes,
+	over_10M;
+
+	
+
+
 -- count and alias 
 SELECT
     COUNT(*) as total_rows
@@ -42,6 +92,8 @@ WHERE
     table_name = 'hemnet';
 
 
+
+DELETE FROM hemnet WHERE column00 = '1.0';
 
 
 
