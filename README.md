@@ -19,13 +19,13 @@ For this you will be using the following tools:
 - git
 - github
 
-| **Week** | **Content**                                            | **Lectures** | **Exercise** |
-| -------- | ------------------------------------------------------ | ------------ | ------------ |
-| 1        | intro, query, load a CSV file in DuckDB, CLI           | 00-04        | 0            |
-| 2        | filtering, conditions, sorting, functions, grouping    |              |              |
-| 3        | performing joins and querying multiple tables          |              |              |
-| 4        | window functions, CTEs, and recursive queries          |              |              |
-| 5        | connect duckdb to Python, data security, SQL injection |              |              |
-| 6        | exam                                                   |              |              |
+| **Week** | **Content**                                                                    | **Lectures** | **Exercise** |
+| -------- | ------------------------------------------------------------------------------ | ------------ | ------------ |
+| 1        | intro, query, ingest csv, cli, dbeaver, table, select                          | 00-04        | 0            |
+| 2        | filtering, conditions, sorting, functions, grouping                            |              | 0            |
+| 3        | performing joins, querying multiple tables                                     |              |              |
+| 4        | window functions, CTEs, connect duckdb to Python, data security, SQL injection |              |              |
+| 5        | duckdb tips and tricks, repetition                                             |              |              |
+| 6        | exam                                                                           |              |              |
 
 <!-- OLTP vs OLAP in dimensional modeling -->
