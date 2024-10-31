@@ -40,7 +40,8 @@ CREATE TABLE funny_jokes (
     rating INTEGER
 );
 ```
-This SQL command or more specifically a data definition language (DDL) command creates a table called funny_jokes with the columns id, joke_text and rating. Data types are specified for each of the columns and the id column also has a primary key constraint. 
+
+This SQL command or more specifically a data definition language (DDL) command creates a table called funny_jokes with the columns id, joke_text and rating. Data types are specified for each of the columns and the id column also has a primary key constraint.
 
 Then insert some values
 
@@ -52,9 +53,9 @@ INSERT INTO funny_jokes (id, joke_text, rating) VALUES
 (4, 'Why don’t skeletons fight each other? They don’t have the guts.', 6);
 ```
 
-Also control that the table jokes have been populated by 
+Also control that the table jokes have been populated by
 
-```sql 
+```sql
 SELECT * FROM funny_jokes;
 ```
 
@@ -74,7 +75,8 @@ desc funny_jokes;
 desc jokes.main.jokes;
 ```
 
-That was funny, lets get some more jokes 
+That was funny, lets get some more jokes
+
 
 ```sql
 INSERT INTO jokes (id, joke_text, rating) VALUES
@@ -98,4 +100,8 @@ Since you are working on a git repository it's good to add dbeaver specific arti
 
 ## Other videos 📹
 
+- [DBeaver Tutorial - How to Use DBeaver (SQL Editor) - Database Star (2022)](https://www.youtube.com/watch?v=LEx96-CkB1Q)
+
 ## Read more 👓
+
+- [dbeaver docs](https://dbeaver.com/docs/dbeaver/)
