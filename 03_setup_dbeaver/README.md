@@ -88,6 +88,8 @@ INSERT INTO jokes (id, joke_text, rating) VALUES
 (10, 'A gothenburg person stands in queue for star wars. When someone cuts the line he says ge daj.', 2);
 ```
 
+Follow along the video and the other SQL scripts for the rest of the code. Remember to disconnect the database connection in order for the changes to be committed and saved to disk. Afterwards you can commit and push the database changes to github.
+
 ## Gitignore
 
 Since you are working on a git repository it's good to add dbeaver specific artifacts to your gitignore so they don't get tracked.
