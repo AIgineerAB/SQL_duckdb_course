@@ -74,6 +74,21 @@ SELECT * FROM videos;
 
 Now close down the database connection and open it up again, then do wildcard selection once more and test out `desc` as well to see that the data is persistent. Close down the database connection, git commit your changes and push it to github.
 
+## Gitignore
+
+Add these to your gitignore to instruct git not to track the .wal file of duckdb 
+
+```bash
+*.wal
+```
+
+Also if you are on a mac you can should also add this to your gitignore 
+
+```bash
+*.DS_Store
+```
+
+
 ## Other videos 📹
 
 - [Duckdb tutorial for beginners - MotherDuck](https://www.youtube.com/watch?v=ZX5FdqzGT1E&t=19s)
