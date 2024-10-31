@@ -7,6 +7,9 @@ Watch this video on how to query data using `SELECT` clause.
 
 - SELECT clause
 
+TODO: glossary crud
+
+
 
 
 ## Other videos 📹
