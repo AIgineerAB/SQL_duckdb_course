@@ -74,6 +74,30 @@ SELECT * FROM videos;
 
 Now close down the database connection and open it up again, then do wildcard selection once more and test out `desc` as well to see that the data is persistent. Close down the database connection, git commit your changes and push it to github.
 
+## Meta commands
+
+In duckdb CLI you could read the data directly from a SQL script by doing a input redirection
+
+```bash 
+duckdb test_yt.duckdb < ingest_data.sql
+```
+
+where the SQL commands for ingesting the data is in the file ingest_data.sql and placed in the same directory. This sends the content from ingest_data.sql into duckdb test_yt.duckdb as an argument, which makes it run the code. 
+
+Another way is to use a meta command once you've started a duckdb session you can do `.read ingest_data.sql` to run it. Meta commands or dot commands in duckdb starts with a . and are used to perform variopus administrative and informational tasks in duckdb CLI. 
+
+Some other common meta commands
+
+| Meta Command | Description                                 |
+|--------------|---------------------------------------------|
+| `.open`      | Opens a DuckDB database file.               |
+| `.read`      | Executes SQL commands from a specified file.|
+| `.schema`    | Shows the schema of tables in the database. |
+| `.tables`    | Lists all tables in the connected database. |
+| `.quit`      | Exits the DuckDB CLI.                       |
+| `.help`      | Lists all available meta commands.          |
+
+
 ## Gitignore
 
 Add these to your gitignore to instruct git not to track the .wal file of duckdb 
