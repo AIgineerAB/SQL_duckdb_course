@@ -10,6 +10,7 @@ Watch this video on how to query data using `CRUD operations`.
 - Update
 - Delete
 
+- generate data
 
 ## Other videos 📹
 

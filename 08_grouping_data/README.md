@@ -1,4 +1,4 @@
-# Querying data
+# Group by
 
 
 Watch this video on how to query data using `SELECT` clause. 
@@ -6,6 +6,17 @@ Watch this video on how to query data using `SELECT` clause.
 
 
 - aggregation functions
+
+## Execution order 
+
+1. FROM: Determines the source tables.
+2. JOIN: Combines data from multiple tables (if applicable).
+3. WHERE: Filters rows based on specified conditions.
+4. GROUP BY: Groups rows based on specified columns.
+5. HAVING: Filters groups based on aggregate conditions.
+6. SELECT: Selects columns and expressions from the results.
+7. ORDER BY: Orders the final result set.
+8. LIMIT: Limits the number of rows in the output.
 
 
 

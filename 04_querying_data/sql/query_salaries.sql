@@ -22,6 +22,12 @@ SELECT
 FROM
 	main.data_jobs;
 
+-- limit clause to choose how many rows to be returned
+SELECT
+	*
+FROM
+	main.data_jobs;
+
 
 -- select specified columns/ column projection/ selective query
 SELECT
@@ -30,7 +36,7 @@ SELECT
 	salary_in_usd,
 	company_location
 FROM
-	data_jobs;
+	main.data_jobs;
 	
 
 -- selecting all columns except those specified in EXCLUDE
@@ -38,7 +44,7 @@ SELECT
 	* EXCLUDE (salary,
 	work_year)
 FROM
-	data_jobs;
+	 main.data_jobs;
 
 
 
