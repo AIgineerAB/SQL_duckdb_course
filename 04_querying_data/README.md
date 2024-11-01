@@ -8,7 +8,12 @@ Watch this video on how to query data using `SELECT` clause.
 - SELECT clause
 - metadata information_schema
 
-TODO: glossary crud
+## Ingest data 
+
+Create an account on kaggle and download this [dataset on data engineering job salaries](https://www.kaggle.com/datasets/chopper53/data-engineer-salary-in-2024/data). 
+
+
+
 
 
 
