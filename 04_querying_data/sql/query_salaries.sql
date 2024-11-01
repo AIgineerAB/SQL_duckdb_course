@@ -46,6 +46,11 @@ SELECT
 FROM
 	 main.data_jobs;
 
+-- getting unique values in a column
+SELECT DISTINCT employment_type FROM main.data_jobs;
 
+SELECT DISTINCT experience_level FROM main.data_jobs;
+
+SELECT experience_level FROM main.data_jobs;
 
 
