@@ -1,10 +1,27 @@
 desc;
 
 -- select all query	
+-- the default namespace is main and data_jobs table is there
 SELECT
 	*
 FROM
 	data_jobs;
+
+-- in general good practice to use namespaces to avoid name confusion
+-- and to get better organization of tables
+
+-- use fully qualified name
+SELECT
+	*
+FROM
+	salaries.main.data_jobs;
+
+-- use schema namespace
+SELECT
+	*
+FROM
+	main.data_jobs;
+
 
 -- select specified columns/ column projection/ selective query
 SELECT
