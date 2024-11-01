@@ -28,7 +28,7 @@ Create a database called `sql_course_structure.duckdb` and go into the course gi
 
 &nbsp; e) How many lectures are in the table?
 
-&nbsp; f) How many other content are there? 
+&nbsp; f) How many other content are there?
 
 &nbsp; g) Which are the unique content types in this table?
 
@@ -38,7 +38,7 @@ Create a database called `sql_course_structure.duckdb` and go into the course gi
 
 &nbsp; j) Now you can choose what you want to explore in this table.
 
-The more information you place into this table about the course content, the more it can help you in filtering out valuable information for your own planning. 
+The more information you place into this table about the course content, the more it can help you in filtering out valuable information for your own planning.
 
 ## 1. Exploring hemnet data
 
@@ -122,7 +122,6 @@ Fill in this table either by copying this into your own markdown file or copy it
 | CLI                 |             |
 | bash                |             |
 | type inference      |             |
-| wildcard selection  |             |
 | selective query     |             |
 | clause              |             |
 | aliasing            |             |
@@ -131,4 +130,7 @@ Fill in this table either by copying this into your own markdown file or copy it
 | .wal                |             |
 | IDE                 |             |
 | csv                 |             |
+| column projection   |             |
+| projection          |             |
+| selection           |             |
 |                     |             |
