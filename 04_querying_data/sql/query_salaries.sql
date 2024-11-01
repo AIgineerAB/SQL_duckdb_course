@@ -23,18 +23,6 @@ SELECT
 FROM
 	data_jobs;
 
--- select unique values of a column
-SELECT
-	DISTINCT
-    salary_currency AS unique_currency
-FROM
-	data_jobs;
-	
 
--- count number of unique occurences in a column, also giving aliasing clause AS
-SELECT
-	COUNT(DISTINCT salary_currency) AS number_currencies
-FROM
-	job_salaries;
 
 
