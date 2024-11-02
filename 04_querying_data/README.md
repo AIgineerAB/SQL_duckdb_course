@@ -34,3 +34,4 @@ Use input redirection to read the SQL file and use it as input for duckdb databa
 
 - [SELECT clause - duckdb docs](https://duckdb.org/docs/sql/query_syntax/select)
 - [Aggregate functions - duckdb docs](https://duckdb.org/docs/sql/functions/aggregates#arg_maxarg-val)
+- [ORDER BY clause - duckdb docs](https://duckdb.org/docs/sql/query_syntax/orderby)
