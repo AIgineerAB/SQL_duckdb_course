@@ -26,7 +26,8 @@ FROM
 SELECT
 	*
 FROM
-	main.data_jobs;
+	main.data_jobs 
+LIMIT 5;
 
 
 -- select specified columns/ column projection/ selective query
