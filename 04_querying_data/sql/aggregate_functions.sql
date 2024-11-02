@@ -6,3 +6,5 @@ SELECT
 	MAX(salary_in_usd) AS max_salary_usd,
 FROM
 	main.data_jobs;
+
+--
