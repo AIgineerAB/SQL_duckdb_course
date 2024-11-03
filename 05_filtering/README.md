@@ -9,10 +9,13 @@ We use same data as in last lecture, so just copy the duckdb database file to th
 ## Other videos 📹
 
 ## Read more 👓
-- [WHERE clause - duckdb docs](https://duckdb.org/docs/sql/query_syntax/where)
-- [FILTER clause - duckdb docs](https://duckdb.org/docs/sql/query_syntax/filter)
-- [LIMIT and OFFSET caluses - duckdb docs](https://duckdb.org/docs/sql/query_syntax/limit)
-- [CASE statement - duckdb docs](https://duckdb.org/docs/sql/expressions/case)
-- [IN operator - duckdb docs](https://duckdb.org/docs/sql/expressions/in)
-- [Logical operators - duckdb docs](https://duckdb.org/docs/sql/expressions/logical_operators)
-- [Comparison operators - duckdb docs](https://duckdb.org/docs/sql/expressions/comparison_operators)
+
+From duckdb documentation
+
+- [where clause ](https://duckdb.org/docs/sql/query_syntax/where)
+- [filter clause](https://duckdb.org/docs/sql/query_syntax/filter)
+- [limit and offset clauses](https://duckdb.org/docs/sql/query_syntax/limit)
+- [case statement](https://duckdb.org/docs/sql/expressions/case)
+- [in operator](https://duckdb.org/docs/sql/expressions/in)
+- [logical operators](https://duckdb.org/docs/sql/expressions/logical_operators)
+- [comparison operators](https://duckdb.org/docs/sql/expressions/comparison_operators)
