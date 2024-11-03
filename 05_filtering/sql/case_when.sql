@@ -26,3 +26,6 @@ SET
 
 	
 
+SELECT DISTINCT employment_type FROM main.data_jobs;
+
+SELECT DISTINCT remote_ratio FROM main.data_jobs;

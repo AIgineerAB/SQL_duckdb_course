@@ -15,6 +15,11 @@ Watch this video on how to query data using `CRUD operations`.
 ## Other videos 📹
 
 ## Read more 👓
-- [CREATE TABLE Statement - duckdb docs](https://duckdb.org/docs/sql/statements/create_table.html)
-- [CREATE SCHEMA Statement - duckdb docs](https://duckdb.org/docs/sql/statements/create_schema)
-- [ALTER TABLE Statement - duckdb docs](https://duckdb.org/docs/sql/statements/alter_table)
+
+From duckdb documentation
+- [create table statement](https://duckdb.org/docs/sql/statements/create_table.html)
+- [create schema statement](https://duckdb.org/docs/sql/statements/create_schema)
+- [alter table statement](https://duckdb.org/docs/sql/statements/alter_table)
+- [insert statement](https://duckdb.org/docs/sql/statements/insert)
+- [create sequence statement](https://duckdb.org/docs/sql/statements/create_sequence)
+- 
