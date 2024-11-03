@@ -122,3 +122,4 @@ Also if you are on a mac you can should also add this to your gitignore
 - [csv import - duckdb docs](https://duckdb.org/docs/data/csv/overview)
 - [csv import tips - duckdb docs](https://duckdb.org/docs/data/csv/tips)
 - [importing data - duckdb docs](https://duckdb.org/docs/data/overview)
+- [describe statement - duckdb docs](https://duckdb.org/docs/sql/statements/describe)
