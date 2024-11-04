@@ -24,6 +24,9 @@ The result set could look similar to this
 | 0.5      | 0.2 | ...  | ...   | ...    | ...     |
 
 
+&nbsp; e) What is the theoretical mean?
+
+
 
 ## 2. Theory questions
 

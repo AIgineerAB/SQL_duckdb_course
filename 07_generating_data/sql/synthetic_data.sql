@@ -8,6 +8,13 @@ SELECT
 	UNNEST (range(1,
 	101)) AS id;
 
+-- dice simulations
+SELECT
+	FLOOR(RANDOM()* 6 + 1) AS dice,
+FROM
+	generate_series(100);
+
+
 
 -- create students synthetic data
 SELECT
