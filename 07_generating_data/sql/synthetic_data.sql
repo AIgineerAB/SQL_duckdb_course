@@ -58,6 +58,4 @@ FROM
 		100)) AS order_id
 );
 
--- timestamp 
-
--- create table if we want it to store 
+-- use create table if we want it to store 
