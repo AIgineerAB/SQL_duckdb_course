@@ -5,7 +5,7 @@ Watch this video on how to query data using `SELECT` clause.
 <!-- [![setup duckdb and dbeaver and testing](https://github.com/kokchun/assets/blob/main/oop_advanced/dbeaver_setup.png?raw=true)](https://youtu.be/b9VMLSXKHwk) -->
 
 
-- aggregation functions
+Go into this [link in kaggle to download food searches on google since 2004](https://www.kaggle.com/datasets/GoogleNewsLab/food-searches-on-google-since-2004)
 
 ## Execution order 
 
