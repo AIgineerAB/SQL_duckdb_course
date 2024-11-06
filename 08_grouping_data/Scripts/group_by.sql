@@ -28,14 +28,29 @@ ORDER BY
 SELECT DISTINCT year FROM main.cleaned_food;
 
 
--- lets check pizza, and number of searches each year for it
+-- using HAVING clause to filter after group by
 SELECT
-	year,
-	food,
-	number_searches
+	YEAR,
+	SUM(number_searches) AS total_searches
 FROM
 	main.cleaned_food
-GROUP BY year
-WHERE food = 'pizza';
+GROUP BY
+	YEAR
+HAVING
+	total_searches > 300000;
 
+
+
+-- groups by two columns
+SELECT
+	YEAR,
+	food,
+	SUM(number_searches) AS total_searches
+FROM
+	main.cleaned_food
+GROUP BY
+	food,
+	YEAR,
+HAVING
+	food = 'pizza';
 
