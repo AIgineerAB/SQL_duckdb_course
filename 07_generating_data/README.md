@@ -1,11 +1,10 @@
 # Generating synthetic data
 
 Watch this video on how to generate synthetic data 
-<!-- [![setup duckdb and dbeaver and testing](https://github.com/kokchun/assets/blob/main/oop_advanced/dbeaver_setup.png?raw=true)](https://youtu.be/b9VMLSXKHwk) -->
 
-
-
-
+<a href="https://youtu.be/LfOnwczge14" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/07_generating_data.png?raw=true" alt="generating synthetic data" width="600">
+</a>
 
 ## Other videos 📹
 
