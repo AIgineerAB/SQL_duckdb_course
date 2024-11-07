@@ -1,8 +1,12 @@
 # Filtering data
 
 
-Watch this video on how to query data using `SELECT` clause. 
-<!-- [![setup duckdb and dbeaver and testing](https://github.com/kokchun/assets/blob/main/oop_advanced/dbeaver_setup.png?raw=true)](https://youtu.be/b9VMLSXKHwk) -->
+Watch this video on how to filter data in SQL and duckdb 
+
+<a href="https://youtu.be/xhKESecuVz0" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/05_filter_data.png?raw=true" alt="filtering data" width="600">
+</a>
+
 
 We use same data as in last lecture, so just copy the duckdb database file to this folder.
 

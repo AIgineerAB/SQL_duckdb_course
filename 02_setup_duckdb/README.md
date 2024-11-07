@@ -2,8 +2,10 @@
 
 Watch this video on how to setup dbeaver.
 
+<a href="https://youtu.be/SoQuhecC3Z4" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/02_duckdb_navigation_video.png?raw=true" alt="duckdb navigation" width="600">
+</a>
 
-[![duckdb navigation]()](https://youtu.be/SoQuhecC3Z4) 
 
 
 ## Setup

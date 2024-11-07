@@ -2,7 +2,13 @@
 
 Watch this video on how to query data using `SELECT` clause.
 
-<!-- [![setup duckdb and dbeaver and testing](https://github.com/kokchun/assets/blob/main/oop_advanced/dbeaver_setup.png?raw=true)](https://youtu.be/b9VMLSXKHwk) -->
+
+<a href="https://youtu.be/SNe4yH8DzqQ" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/04_query_data.png?raw=true" alt="querying data" width="600">
+</a>
+
+
+
 
 - SELECT clause
 - metadata information_schema
