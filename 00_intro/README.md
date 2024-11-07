@@ -1,6 +1,6 @@
 # Introduction to SQL with duckdb
 
-<a href="https://youtu.be/z3ihUI6N-tg">
+<a href="https://youtu.be/z3ihUI6N-tg" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/sql/00_sql_intro_video.png?raw=true" alt="introduction to SQL with duckdb" width="500">
 </a>
 
