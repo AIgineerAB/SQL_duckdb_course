@@ -1,6 +1,6 @@
 # Setup duckdb
 
-Watch this video on how to setup dbeaver.
+Watch this video on how to setup duckdb.
 
 <a href="https://youtu.be/SoQuhecC3Z4" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/sql/02_duckdb_navigation_video.png?raw=true" alt="duckdb navigation" width="600">
