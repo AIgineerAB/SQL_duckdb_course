@@ -10,6 +10,11 @@ Watch this video on how to query data using `SELECT` clause.
 
 **part 2 - coding**
 
+<a href="https://www.youtube.com/watch?v=luhgl9CpuQU" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/04_a_query_data.png?raw=true" alt="querying data" width="600">
+</a>
+
+
 
 
 ## Ingest data
