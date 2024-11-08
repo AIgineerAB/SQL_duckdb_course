@@ -1,11 +1,19 @@
 # Course structure
 
-Video on the course structure part 1 :point_down:
+Video on the course structure 
 
-<!-- [![course structure part 1](https://github.com/kokchun/assets/blob/main/data_warehouse/course_structure_video.png?raw=true)](https://youtu.be/dzI71WhlOpU)
+<a href="https://youtu.be/-9y2Jw-ETZA" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/01_course_structure_1.png?raw=true" alt="dbeaver navigation" width="600">
+</a>
 
-[![course structure part 2](https://github.com/kokchun/assets/blob/main/data_warehouse/github_course_structure_video.png?raw=true)](https://youtu.be/D_JY1dkljSs)
- -->
+<a href="https://youtu.be/woVKB99-KFg" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/01_course_structure_2.png?raw=true" alt="dbeaver navigation" width="600">
+</a>
+
+
+
+
+
 
 All course material can be found in this github repository. The course material is described in this table
 

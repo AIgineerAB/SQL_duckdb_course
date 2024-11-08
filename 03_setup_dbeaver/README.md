@@ -6,6 +6,11 @@ Watch this video on how to setup dbeaver.
   <img src="https://github.com/kokchun/assets/blob/main/sql/03_dbeaver_navigation_video.png?raw=true" alt="dbeaver navigation" width="600">
 </a>
 
+<a href="https://youtu.be/0tnq9eLNNWM" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/03_dbeaver_setup.png?raw=true" alt="dbeaver setup" width="600">
+</a>
+
+
 ## Install dbeaver community
 
 Now [download and install dbeaver community](https://dbeaver.io/download/), which is an IDE for viewing databases.
