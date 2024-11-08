@@ -2,16 +2,15 @@
 
 Watch this video on how to query data using `SELECT` clause.
 
+**part 1 - theory**
 
 <a href="https://youtu.be/SNe4yH8DzqQ" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/sql/04_query_data.png?raw=true" alt="querying data" width="600">
 </a>
 
+**part 2 - coding**
 
 
-
-- SELECT clause
-- metadata information_schema
 
 ## Ingest data
 

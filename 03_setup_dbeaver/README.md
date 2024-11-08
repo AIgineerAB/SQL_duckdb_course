@@ -2,9 +2,13 @@
 
 Watch this video on how to setup dbeaver.
 
+**part 1 - dbeaver navigation theory**
+
 <a href="https://youtu.be/qdTSora1Nbs" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/sql/03_dbeaver_navigation_video.png?raw=true" alt="dbeaver navigation" width="600">
 </a>
+
+**part 2 - setup and coding**
 
 <a href="https://youtu.be/0tnq9eLNNWM" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/sql/03_dbeaver_setup.png?raw=true" alt="dbeaver setup" width="600">

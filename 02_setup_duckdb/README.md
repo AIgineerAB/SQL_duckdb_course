@@ -6,6 +6,10 @@ Watch this video on how to setup duckdb.
   <img src="https://github.com/kokchun/assets/blob/main/sql/02_duckdb_navigation_video.png?raw=true" alt="duckdb navigation" width="600">
 </a>
 
+<a href="https://youtu.be/mneNRn0H6Ho" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/02_duckdb_cli.png?raw=true" alt="duckdb navigation" width="600">
+</a>
+
 
 
 ## Setup
