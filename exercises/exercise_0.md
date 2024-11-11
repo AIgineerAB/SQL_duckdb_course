@@ -82,15 +82,13 @@ These study questions are good to get an overview of how SQL and relational data
 
 &nbsp; f) What type of dot commands are there in duckdb?
 
-&nbsp; g) Is DuckDB optimized for OLAP or OLTP workloads?
+&nbsp; g) What makes DuckDB unique compared to other databases?
 
-&nbsp; h) What makes DuckDB unique compared to other databases?
+&nbsp; h) Is DuckDB suitable for real-time data processing?
 
-&nbsp; i) Is DuckDB suitable for real-time data processing?
+&nbsp; i) Difference between read_csv and read_csv_auto
 
-&nbsp; j) Difference between read_csv and read_csv_auto
-
-&nbsp; k) What is the purpose and advantages of using an IDE such as DBeaver?
+&nbsp; j) What is the purpose and advantages of using an IDE such as DBeaver?
 
 ## Glossary
 
@@ -106,8 +104,6 @@ Fill in this table either by copying this into your own markdown file or copy it
 | DDL                 |             |
 | DML                 |             |
 | idempotent          |             |
-| OLAP                |             |
-| OLTP                |             |
 | table               |             |
 | schema              |             |
 | row                 |             |
@@ -117,12 +113,10 @@ Fill in this table either by copying this into your own markdown file or copy it
 | persistance         |             |
 | DQL                 |             |
 | relational database |             |
-| ACID                |             |
 | dot commands        |             |
 | CLI                 |             |
 | bash                |             |
 | type inference      |             |
-| selective query     |             |
 | clause              |             |
 | aliasing            |             |
 | SQL statement       |             |
@@ -130,8 +124,5 @@ Fill in this table either by copying this into your own markdown file or copy it
 | .wal                |             |
 | IDE                 |             |
 | csv                 |             |
-| column projection   |             |
-| projection          |             |
-| selection           |             |
 | namespace           |             |
 |                     |             |
