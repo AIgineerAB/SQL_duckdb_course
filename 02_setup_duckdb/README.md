@@ -3,11 +3,13 @@
 Watch this video on how to setup duckdb.
 
 **part 1 - theory**
+
 <a href="https://youtu.be/SoQuhecC3Z4" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/sql/02_duckdb_navigation_video.png?raw=true" alt="duckdb navigation" width="600">
 </a>
 
 **part 2 - setup and coding**
+
 <a href="https://youtu.be/mneNRn0H6Ho" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/sql/02_a_setup_duckdb.png?raw=true" alt="duckdb navigation" width="600">
 </a>
