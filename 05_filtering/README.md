@@ -8,6 +8,14 @@ Watch this video on how to filter data in SQL and duckdb
 </a>
 
 
+<a href="https://youtu.be/0w-V8hGgD-A" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/05_a_filtering.png?raw=true" alt="filtering data" width="600">
+</a>
+
+
+
+
+
 We use same data as in last lecture, so just copy the duckdb database file to this folder.
 
 ## Other videos 📹
