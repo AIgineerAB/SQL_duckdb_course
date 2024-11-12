@@ -1,0 +1,21 @@
+sql_word,description,example
+ SELECT , Used to   select data   from a  database  ," SeLEcT column1 ,   column2   FROM table_name ;"
+  from, Specifies  the table to select or manipulate data   from ,   select  column1   from   table_name  ;
+wheRE,Filters   records  to meet specified   conditions ,SeLECT  *  FROM  table_name where   condition ;
+ JOIN  ,Combines   rows  from two or more tables based on   related columns,SELECT * from   table1  join   table2 ON table1.id =  table2.id  ;
+GrOUP by,Groups   rows that  have the  same values in  specified columns ,"Select column_name  , COUNT ( * )   from table_name group by column_name;"
+orderBY  ,Sorts the result set  in ascending   or descending order,  SELECT * FROM  table_name ORDER   by   column_name ASC;
+INSert  , Adds new rows of    data into a  table ," insert into table_name ( column1 ,   column2  ) values (value1, value2);"
+ upDate ,Modifies existing  records  in a table , update  table_name set  column1 = value1 WHERE  condition  ;
+  DELETE,Removes  records  from a   table ,  DELETE FROM table_name   where   condition  ;
+AlTER,Modifies  the structure of an  existing table,   ALTER  TABLE  table_name   ADD column_name datatype;
+CREATE ,"Creates a new   table,   database, index, or  other object   in the database "," create table table_name (column1   datatype , column2  datatype);"
+ DROP  ,Deletes  an  existing table or   database , drop table table_name   ;
+TRUNCATE,"Removes all records   from a  table,  but not the  table itself ",TRUNCATE   table  table_name;
+ DiStiNct , Selects unique   values   in a column , SELECT DISTINCT column_name   FROM  table_name;
+LiMiT ,Limits  the  number of  records  returned ,Select * from  table_name  limit  10 ;
+  HaVinG, Filters grouped records  after grouping has been applied  , select column_name from table_name group   by column_name   HAVING COUNT ( * )  > 1  ;
+UnIoN,Combines  the results of two SELECT  queries and removes  duplicates ,select column_name FROM table1 union select  column_name  from table2;
+iNtErSeCt,Combines the results   of two   SELECT  queries and retains  duplicates,select column_name  from table1 intersect  SELECT column_name FROM table2;
+exCEpT  ,Combines results of two SELECT  queries but keeps  only rows  from the first  not present in the  second,SELECT column_name from table1 except  SELECT  column_name from  table2;
+ index ,Creates a structure  to quickly retrieve data  from a  table,CREATE index  index_name on table_name (column_name);

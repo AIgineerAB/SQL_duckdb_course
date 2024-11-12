@@ -1,8 +1,9 @@
 # Strings
 
 
-Watch this video on how to query data using `SELECT` clause. 
-<!-- [![setup duckdb and dbeaver and testing](https://github.com/kokchun/assets/blob/main/oop_advanced/dbeaver_setup.png?raw=true)](https://youtu.be/b9VMLSXKHwk) -->
+<!-- <a href="https://youtu.be/oM0MKB-TAKI" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/06_crud_operations.png?raw=true" alt="CRUD operations in duckdb sql" width="600">
+</a> -->
 
 
 - strings
@@ -13,3 +14,7 @@ Watch this video on how to query data using `SELECT` clause.
 ## Other videos 📹
 
 ## Read more 👓
+
+From duckdb documentation
+- [text functions and operators](https://duckdb.org/docs/sql/functions/char.html)
+- 
