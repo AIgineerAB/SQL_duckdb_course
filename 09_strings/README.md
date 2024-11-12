@@ -9,7 +9,7 @@
 - strings
 - regexp
 
-
+I strongly recommend you to check the documentation for text operations as we won't cover them all in this lecture
 
 ## Other videos 📹
 
