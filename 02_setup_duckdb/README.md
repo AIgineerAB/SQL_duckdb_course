@@ -7,7 +7,7 @@ Watch this video on how to setup duckdb.
 </a>
 
 <a href="https://youtu.be/mneNRn0H6Ho" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/02_duckdb_cli.png?raw=true" alt="duckdb navigation" width="600">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/02_a_setup_duckdb.png?raw=true" alt="duckdb navigation" width="600">
 </a>
 
 
