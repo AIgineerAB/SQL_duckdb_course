@@ -31,18 +31,25 @@ FROM
 
 -- transform character to uppercase
 SELECT
-	UPPER(trim(sql_word, ' ')) as trimmed_word,
+	upper(trim(sql_word, ' ')) as trimmed_word,
 	trimmed_word[1],
 	trimmed_word[-1]
 FROM
 	staging.sql_glossary;
 
 
+-- removes all spaces, but we want to replace 2 or more spaces with 1 space
+SELECT
+	replace(trim(description),
+	' ',
+	'')
+FROM
+	staging.sql_glossary;
 
-
-
-
-
+   
+   
+   
+   
 
 
 
