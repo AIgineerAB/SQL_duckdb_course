@@ -17,4 +17,7 @@ I strongly recommend you to check the documentation for text operations as we wo
 
 From duckdb documentation
 - [text functions and operators](https://duckdb.org/docs/sql/functions/char.html)
-- 
+
+
+Other sources
+- [regex cheat sheet](https://www.rexegg.com/regex-quickstart.php)

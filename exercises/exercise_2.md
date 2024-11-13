@@ -26,7 +26,17 @@ The result set could look similar to this
 
 &nbsp; e) What is the theoretical mean?
 
+## 1. Cleaning malformed text data
 
+Continue working on the data from lecture 09_strings. In this lecture you created a schema called staging and ingested the raw data into the staging schema.
+
+&nbsp; a) Create a schema called refined. This is the schema where you'll put the transformed data. 
+
+&nbsp; b) Now transform and clean the data and place the cleaned table inside the refined schema. 
+
+&nbsp; c) Practice filtering and searching for different keywords in different columns. Discuss with a friend why this could be useful in this case. 
+
+## 2. TODO: exercise on sets and joins
 
 ## 2. Theory questions
 
