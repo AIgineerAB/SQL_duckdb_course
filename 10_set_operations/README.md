@@ -13,3 +13,9 @@ Watch this video on how to query data using `SELECT` clause.
 ## Other videos 📹
 
 ## Read more 👓
+
+From duckdb documentation
+- [set operations](https://duckdb.org/docs/sql/query_syntax/setops.html)
+
+Other
+- [set operations - wikipedia](https://en.wikipedia.org/wiki/Set_(mathematics)#Basic_operations)
