@@ -12,9 +12,9 @@ FROM
 -- getitem
 SELECT
 	sql_word,
-	sql_word[0], -- we get nothing since SQL starts counting from 1
-	sql_word[1], -- some missing since we got leading spaces for some rows
-	sql_word[-1], -- gets last character
+	sql_word[0], 
+	sql_word[1], 
+	sql_word[-1], 
 FROM
 	staging.sql_glossary;
 
