@@ -1,10 +1,19 @@
 # Generating synthetic data
 
-Watch this video on how to generate synthetic data 
+**Part 1 how to generate synthetic data theory**
 
 <a href="https://youtu.be/LfOnwczge14" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/sql/07_generating_data.png?raw=true" alt="generating synthetic data" width="600">
 </a>
+
+**Part 2 generating synthetic data coding**
+
+<a href="https://youtu.be/trBRcwSO7_8" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/07_a_generating_data.png?raw=true" alt="generating synthetic data" width="600">
+</a>
+
+
+
 
 ## Other videos 📹
 
