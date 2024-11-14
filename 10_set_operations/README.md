@@ -1,9 +1,6 @@
 # Set operations
 
-Here we will use excel data instead of csv, the data source is here ["Lista över befintligt utbildnignsutbud ..."](https://www.myh.se/statistik/yrkeshogskoleutbildningar/statistik-program/utbildningar-och-platser). However you can download it from this lecture if the data is not available on MYH anymore.  
-
-Rename the data to utbildningsomgang.xlsx
-
+We'll work with [open data from Göteborgs stad](https://goteborg.se/wps/portal/start/kommun-och-politik/sa-arbetar-goteborgs-stad-med/digitalisering/oppna-data/sok-oppna-data/oppna-data---datamangd#esc_entry=62167&esc_context=6). These are data on "leverantörsfakturor" or supplier invoices to Göteborg stad. It's always good to get insight in how the city is spending our tax money. 
 
 
 
