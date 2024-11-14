@@ -1,10 +1,8 @@
 # Strings
 
-
-<!-- <a href="https://youtu.be/oM0MKB-TAKI" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/06_crud_operations.png?raw=true" alt="CRUD operations in duckdb sql" width="600">
-</a> -->
-
+<a href="https://youtu.be/7DUrBs5q6kM" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/09_a_strings.png?raw=true" alt="strings in duckdb" width="600">
+</a>
 
 - strings
 - regexp
@@ -16,8 +14,9 @@ I strongly recommend you to check the documentation for text operations as we wo
 ## Read more 👓
 
 From duckdb documentation
+
 - [text functions and operators](https://duckdb.org/docs/sql/functions/char.html)
 
-
 Other sources
+
 - [regex cheat sheet](https://www.rexegg.com/regex-quickstart.php)
