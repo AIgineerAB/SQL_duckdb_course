@@ -4,10 +4,7 @@
   <img src="https://github.com/kokchun/assets/blob/main/sql/09_a_strings.png?raw=true" alt="strings in duckdb" width="600">
 </a>
 
-- strings
-- regexp
-
-I strongly recommend you to check the documentation for text operations as we won't cover them all in this lecture
+In this lecture we'll work with strings and regular expressions. I strongly recommend you to check the documentation for text operations as we won't cover them all in this lecture.
 
 ## Regex glossary
 
