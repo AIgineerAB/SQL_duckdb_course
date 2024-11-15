@@ -4,7 +4,9 @@ Watch this video on how to group data using `GROUP BY` clause.
 
 **Part 1 group by theory**
 
-- not finished yet
+<a href="https://youtu.be/FHRplWe0Lrk" target="_blank">
+<img src="https://github.com/kokchun/assets/blob/main/sql/08_group_by.png?raw=true" alt="group by clause" width="600">
+</a>
 
 **Part 2 group by coding**
 
