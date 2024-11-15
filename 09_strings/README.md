@@ -2,7 +2,9 @@
 
 **Part 1 strings theory**
 
-- not finished yet
+<a href="https://youtu.be/iWxcl63Uq2Q" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/09_strings.png?raw=true" alt="strings in duckdb" width="600">
+</a>
 
 **Part 2 - strings coding**
 
