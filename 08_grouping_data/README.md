@@ -28,3 +28,8 @@ Go into this [link in kaggle to download food searches on google since 2004](htt
 ## Other videos 📹
 
 ## Read more 👓
+
+From duckdb documentation
+
+- [group by clause](https://duckdb.org/docs/sql/query_syntax/groupby.html)
+- [having clause](https://duckdb.org/docs/sql/query_syntax/having)
