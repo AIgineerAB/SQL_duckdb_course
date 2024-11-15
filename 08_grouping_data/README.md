@@ -1,8 +1,16 @@
 # Group by
 
-Watch this video on how to query data using `SELECT` clause.
+Watch this video on how to group data using `GROUP BY` clause.
 
-<!-- [![setup duckdb and dbeaver and testing](https://github.com/kokchun/assets/blob/main/oop_advanced/dbeaver_setup.png?raw=true)](https://youtu.be/b9VMLSXKHwk) -->
+**Part 1 group by theory**
+
+- not finished yet
+
+**Part 2 group by coding**
+
+<a href="https://www.youtube.com/watch?v=hps8P9fmfCk" target="_blank">
+<img src="https://github.com/kokchun/assets/blob/main/sql/08_a_group_by.png?raw=true" alt="group by clause" width="600">
+</a>
 
 Go into this [link in kaggle to download food searches on google since 2004](https://www.kaggle.com/datasets/GoogleNewsLab/food-searches-on-google-since-2004)
 

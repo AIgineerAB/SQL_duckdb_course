@@ -1,5 +1,11 @@
 # Strings
 
+**Part 1 strings theory**
+
+- not finished yet
+
+**Part 2 - strings coding**
+
 <a href="https://youtu.be/7DUrBs5q6kM" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/sql/09_a_strings.png?raw=true" alt="strings in duckdb" width="600">
 </a>
