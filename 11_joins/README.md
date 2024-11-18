@@ -1,11 +1,12 @@
 # Joins
 
-We will generate synthetic data called TPCH, which is used for benchmarking and testing. This data is fake but simulates a decision support system environment, which are important for analytics and business intelligence. 
+We will use [sakila database from kaggle](https://www.kaggle.com/datasets/atanaskanev/sqlite-sakila-sample-database?resource=download). It's a fictious database representing DVD rental store created originally by MySQL for practicing SQL.  
 
 
 ## Other videos 📹
 
 ## Read more 👓
+- [analyze sqlite databases in duckdb](https://motherduck.com/blog/analyze-sqlite-databases-duckdb/)
+
 
 These links are from duckdb documentation
-- [TPC-H extension](https://duckdb.org/docs/extensions/tpch.html)
