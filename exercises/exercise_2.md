@@ -38,7 +38,29 @@ Continue working on the data from lecture 09_strings. In this lecture you create
 
 &nbsp; c) Practice filtering and searching for different keywords in different columns. Discuss with a friend why this could be useful in this case. 
 
-## 2. Working with Sakila database
+## 2. More extensive EDA on the sakila database
+
+You will be using the same database as in 11_joins. Take some time to really understand this database, as we'll come back to this database later in this course and in data modeling course. 
+
+&nbsp; a) Describe all tables.
+
+&nbsp; b) Select all data on all tables.
+
+&nbsp; c) Find out how many rows there are in each table.
+
+The questions here might come from a business stakeholder which is not familiar with the table structure. Hence it's your job to find out which table(s) to look at.
+
+&nbsp; d) Calculate descriptive statistics on film length.
+
+&nbsp; e) What are the peak rental times?
+
+&nbsp; f) What is the distribution of film ratings?
+
+&nbsp; g) Who are the top 10 customers by number of rentals?
+
+&nbsp; h) Retrieve a list of all customers and what films they have rented.
+
+## 3. 
 
 &nbsp; a) Retrieve a list of all customers and what films they have rented.
 
