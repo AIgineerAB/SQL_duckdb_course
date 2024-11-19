@@ -16,13 +16,15 @@ In this exercise, you get to familiarize yourself with SQL. For the practical ex
 
 &nbsp; c) Generate 100 rows of dice rolls and calculate average of getting a six
 
-&nbsp; d) Repeat the experiment with 1000, 10000, 100000, 1000000 rolls. Can you make these in the same query, so you get one column for each experiment?  
+&nbsp; d) Repeat the experiment with 1000, 10000, 100000, 1000000 rolls. 
+
+<!-- Can you make these in the same query, so you get one column for each experiment?  
+
 The result set could look similar to this
 
 | 10 rolls | 100 | 1000 | 10000 | 100000 | 1000000 |
 | -------- | --- | ---- | ----- | ------ | ------- |
-| 0.5      | 0.2 | ...  | ...   | ...    | ...     |
-
+| 0.5      | 0.2 | ...  | ...   | ...    | ...     | -->
 
 &nbsp; e) What is the theoretical mean?
 
@@ -36,15 +38,19 @@ Continue working on the data from lecture 09_strings. In this lecture you create
 
 &nbsp; c) Practice filtering and searching for different keywords in different columns. Discuss with a friend why this could be useful in this case. 
 
-## 2. TODO: exercise on sets and joins
+## 2. Working with Sakila database
 
-## 2. Theory questions
+&nbsp; a) Retrieve a list of all customers and what films they have rented.
+
+
+
+## 3. Theory questions
 
 These study questions are good to get an overview of how SQL and relational databases work.
 
-&nbsp; a)
-&nbsp; b)
-&nbsp; c)
+&nbsp; a) What is the difference between INNER JOIN and INTERSECT? 
+&nbsp; b) When are the purposes of set operations?
+&nbsp; c) 
 &nbsp; d)
 &nbsp; e)
 &nbsp; f)
