@@ -29,4 +29,10 @@ DESC TABLE main.film_actor;
 SELECT * FROM main.actor;
 
 
+-- category
+SELECT * FROM main.film_category;
+SELECT * FROM main.category;
+
+
+
 
