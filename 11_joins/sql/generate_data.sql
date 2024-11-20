@@ -30,5 +30,3 @@ VALUES
 	(4, 6, 'Daily', 'Shade');
 
 
-SELECT * FROM main.plant_care;
-SELECT * FROM main.plants;

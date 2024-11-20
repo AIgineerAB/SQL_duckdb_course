@@ -1,3 +1,7 @@
+SELECT * FROM main.plant_care;
+SELECT * FROM main.plants;
+
+
 -- LEFT JOIN
 SELECT 
     p.plant_id,
