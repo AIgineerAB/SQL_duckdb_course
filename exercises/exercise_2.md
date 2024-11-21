@@ -62,9 +62,11 @@ The questions here might come from a business stakeholder which is not familiar 
 
 &nbsp; i) Make a more extensive EDA of your choice on the Sakila database.
 
-## 3. Compound querying
+## 3. Sets and joins on sakila
 
-&nbsp; a) Retrieve a list of all customers and what films they have rented.
+&nbsp; a) Retrieve a list of all customers and actors which last name starts with G.
+
+Retrieve a list of all customers and what films they have rented.
 
 ## 4. Theory questions
 
@@ -115,5 +117,5 @@ Fill in this table either by copying this into your own markdown file or copy it
 | LEFT JOIN      |             |
 | INNER JOIN     |             |
 | RIGHT JOIN     |             |
-|                |             |
+| LIKE           |             |
 |                |             |
