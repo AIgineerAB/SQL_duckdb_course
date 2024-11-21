@@ -92,8 +92,6 @@ These study questions are good to get an overview of how SQL and relational data
 
 ## Glossary
 
-TODO: LIFT out some glossary to other exercises where they fit
-
 Fill in this table either by copying this into your own markdown file or copy it into a spreadsheet if you feel that is easier to work with.
 
 | terminology         | explanation |
