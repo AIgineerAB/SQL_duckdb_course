@@ -16,9 +16,9 @@ In this exercise, you get to familiarize yourself with SQL. For the practical ex
 
 &nbsp; c) Generate 100 rows of dice rolls and calculate average of getting a six
 
-&nbsp; d) Repeat the experiment with 1000, 10000, 100000, 1000000 rolls. 
+&nbsp; d) Repeat the experiment with 1000, 10000, 100000, 1000000 rolls.
 
-<!-- Can you make these in the same query, so you get one column for each experiment?  
+<!-- Can you make these in the same query, so you get one column for each experiment?
 
 The result set could look similar to this
 
@@ -32,15 +32,15 @@ The result set could look similar to this
 
 Continue working on the data from lecture 09_strings. In this lecture you created a schema called staging and ingested the raw data into the staging schema.
 
-&nbsp; a) Create a schema called refined. This is the schema where you'll put the transformed data. 
+&nbsp; a) Create a schema called refined. This is the schema where you'll put the transformed data.
 
-&nbsp; b) Now transform and clean the data and place the cleaned table inside the refined schema. 
+&nbsp; b) Now transform and clean the data and place the cleaned table inside the refined schema.
 
-&nbsp; c) Practice filtering and searching for different keywords in different columns. Discuss with a friend why this could be useful in this case. 
+&nbsp; c) Practice filtering and searching for different keywords in different columns. Discuss with a friend why this could be useful in this case.
 
 ## 2. More extensive EDA on the sakila database
 
-You will be using the same database as in 11_joins. Take some time to really understand this database, as we'll come back to this database later in this course and in data modeling course. 
+You will be using the same database as in 11_joins. Take some time to really understand this database, as we'll come back to this database later in this course and in data modeling course.
 
 &nbsp; a) Describe all tables.
 
@@ -60,24 +60,34 @@ The questions here might come from a business stakeholder which is not familiar 
 
 &nbsp; h) Retrieve a list of all customers and what films they have rented.
 
-## 3. 
+## 3.
 
 &nbsp; a) Retrieve a list of all customers and what films they have rented.
-
-
 
 ## 3. Theory questions
 
 These study questions are good to get an overview of how SQL and relational databases work.
 
-&nbsp; a) What is the difference between INNER JOIN and INTERSECT? 
+&nbsp; a) What is the difference between INNER JOIN and INTERSECT?
+
 &nbsp; b) When are the purposes of set operations?
-&nbsp; c) 
-&nbsp; d)
-&nbsp; e)
-&nbsp; f)
+
+&nbsp; c) What are the main difference between joins and set operations?
+
+&nbsp; d) When is set operators used contra logical operators?
+
+&nbsp; e) How to achieve this using set operations in SQL, where A and B are result sets. 
+
+<img src ="https://github.com/kokchun/assets/blob/main/sql/set_question_1.png?raw=true" width = 200>
+
+&nbsp; f) How to achieve this using set operations in SQL, where A and B are result sets. 
+
+<img src ="https://github.com/kokchun/assets/blob/main/sql/set_question_2.png?raw=true" width = 200>
+
 &nbsp; g)
+
 &nbsp; h)
+
 &nbsp; i)
 
 ## Glossary
@@ -86,20 +96,20 @@ Fill in this table either by copying this into your own markdown file or copy it
 
 | terminology    | explanation |
 | -------------- | ----------- |
-| temporal data  |             |
-| interval type  |             |
-| synthetic data |             |
-| VALUES clause  |             |
+| temporal       |             |
+| interval       |             |
+| synthetic      |             |
+| VALUES         |             |
 | subquery       |             |
-|                |             |
-|                |             |
-|                |             |
-|                |             |
-|                |             |
-|                |             |
-|                |             |
-|                |             |
-|                |             |
+| compound query |             |
+| set operations |             |
+| EXCEPT         |             |
+| result set     |             |
+| UNION          |             |
+| UNION ALL      |             |
+| operator       |             |
+| INTERSECT      |             |
+| venn diagram   |             |
 |                |             |
 |                |             |
 |                |             |

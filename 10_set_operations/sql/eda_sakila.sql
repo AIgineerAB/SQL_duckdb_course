@@ -33,6 +33,27 @@ SELECT * FROM main.actor;
 SELECT * FROM main.film_category;
 SELECT * FROM main.category;
 
+-- customer
+SELECT
+	*
+FROM
+	main.customer c
+	
+-- using c for reference as we'll be using set operations later for compound querying
+SELECT
+	'customer' AS TYPE,
+	c.first_name,
+	c.last_name
+FROM
+	main.customer c
+WHERE
+	c.first_name LIKE 'D%';
 
+	
+-- more EDAs left for reader as I don't want to take away all fun for you
+	
+	
+	
+	
 
 
