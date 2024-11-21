@@ -66,7 +66,11 @@ The questions here might come from a business stakeholder which is not familiar 
 
 &nbsp; a) Retrieve a list of all customers and actors which last name starts with G.
 
-Retrieve a list of all customers and what films they have rented.
+&nbsp; b) How many customers and actors starts have the the letters 'ann' in there first names?
+
+&nbsp; c)
+
+&nbsp; x) Retrieve a list of all customers and what films they have rented.
 
 ## 4. Theory questions
 
