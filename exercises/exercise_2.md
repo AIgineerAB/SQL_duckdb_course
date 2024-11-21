@@ -1,6 +1,6 @@
-# Exercise 2 - TBD
+# Exercise 2 - querying multiple tables
 
-In this exercise, you get to familiarize yourself with SQL. For the practical exercises, you can open up your local repository as a project and make new connections to each databse file that you will work with.
+In this exercise, you get to make more complex querying with SQL. For the practical exercises, you can open up your local repository as a project and make new connections to each databse file that you will work with.
 
 > [!NOTE]
 > To ingest data to the database, you should use CLI in combination with SQL script, as the relative path from dbeaver is not from the repository. Also absolute path is not recommended as this won't work for another computer.
@@ -68,9 +68,13 @@ The questions here might come from a business stakeholder which is not familiar 
 
 &nbsp; b) How many customers and actors starts have the the letters 'ann' in there first names?
 
-&nbsp; c)
+&nbsp; c) In which cities and countries do the customers live in?
 
-&nbsp; x) Retrieve a list of all customers and what films they have rented.
+&nbsp; d) In which cities and countries do the customers with initials JD live in?
+
+&nbsp; e) Retrieve a list of all customers and what films they have rented.
+
+&nbsp; f) What else cool information can you find out with this database using what you know about SQL. 
 
 ## 4. Theory questions
 
@@ -92,11 +96,7 @@ These study questions are good to get an overview of how SQL and relational data
 
 <img src ="https://github.com/kokchun/assets/blob/main/sql/set_question_2.png?raw=true" width = 200>
 
-&nbsp; g)
-
-&nbsp; h)
-
-&nbsp; i)
+&nbsp; g) Does joining order matter for three or more tables?
 
 ## Glossary
 
@@ -122,4 +122,5 @@ Fill in this table either by copying this into your own markdown file or copy it
 | INNER JOIN     |             |
 | RIGHT JOIN     |             |
 | LIKE           |             |
-|                |             |
+
+
