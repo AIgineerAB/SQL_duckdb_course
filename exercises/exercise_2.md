@@ -60,11 +60,13 @@ The questions here might come from a business stakeholder which is not familiar 
 
 &nbsp; h) Retrieve a list of all customers and what films they have rented.
 
-## 3.
+&nbsp; i) Make a more extensive EDA of your choice on the Sakila database.
+
+## 3. Compound querying
 
 &nbsp; a) Retrieve a list of all customers and what films they have rented.
 
-## 3. Theory questions
+## 4. Theory questions
 
 These study questions are good to get an overview of how SQL and relational databases work.
 
@@ -76,11 +78,11 @@ These study questions are good to get an overview of how SQL and relational data
 
 &nbsp; d) When is set operators used contra logical operators?
 
-&nbsp; e) How to achieve this using set operations in SQL, where A and B are result sets. 
+&nbsp; e) How to achieve this using set operations in SQL, where A and B are result sets.
 
 <img src ="https://github.com/kokchun/assets/blob/main/sql/set_question_1.png?raw=true" width = 200>
 
-&nbsp; f) How to achieve this using set operations in SQL, where A and B are result sets. 
+&nbsp; f) How to achieve this using set operations in SQL, where A and B are result sets.
 
 <img src ="https://github.com/kokchun/assets/blob/main/sql/set_question_2.png?raw=true" width = 200>
 
@@ -110,8 +112,8 @@ Fill in this table either by copying this into your own markdown file or copy it
 | operator       |             |
 | INTERSECT      |             |
 | venn diagram   |             |
-|                |             |
-|                |             |
-|                |             |
+| LEFT JOIN      |             |
+| INNER JOIN     |             |
+| RIGHT JOIN     |             |
 |                |             |
 |                |             |
