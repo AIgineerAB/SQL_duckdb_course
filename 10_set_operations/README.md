@@ -1,6 +1,6 @@
 # Set operations - NOT FINISHED YET
 
-We'll work with [open data from Göteborgs stad](https://goteborg.se/wps/portal/start/kommun-och-politik/sa-arbetar-goteborgs-stad-med/digitalisering/oppna-data/sok-oppna-data/oppna-data---datamangd#esc_entry=62167&esc_context=6). These are data on "leverantörsfakturor" or supplier invoices to Göteborg stad. It's always good to get insight in how the city is spending our tax money. 
+We will use [sakila database from kaggle](https://www.kaggle.com/datasets/atanaskanev/sqlite-sakila-sample-database?resource=download). It's a fictious database representing DVD rental store created originally by MySQL for practicing SQL.  
 
 
 
@@ -13,3 +13,4 @@ From duckdb documentation
 
 Other
 - [set operations - wikipedia](https://en.wikipedia.org/wiki/Set_(mathematics)#Basic_operations)
+- [analyze sqlite databases in duckdb](https://motherduck.com/blog/analyze-sqlite-databases-duckdb/)
