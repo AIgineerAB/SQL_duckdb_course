@@ -5,7 +5,7 @@ We will use [sakila database from kaggle](https://www.kaggle.com/datasets/atanas
 
 **Part 1 - set operations theory**
 
-- TODO upload video here
+
 
 **Part 2 - set operations coding**
 
@@ -16,7 +16,9 @@ We will use [sakila database from kaggle](https://www.kaggle.com/datasets/atanas
 
 **Part 3 - set operations with sakila database coding**
 
-- TODO upload video here
+<a href="https://youtu.be/K6Wb0Wu-qsA" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/10_b_set_operations.png?raw=true" alt="strings in duckdb" width="600">
+</a>
 
 
 ## Other videos 📹
