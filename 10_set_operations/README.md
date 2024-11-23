@@ -6,7 +6,7 @@ We will use [sakila database from kaggle](https://www.kaggle.com/datasets/atanas
 **Part 1 - set operations theory**
 
 <a href="https://youtu.be/WzIc1UWzaXc" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/10_set_operations.png?raw=true" alt="set operations in duckdb" width="600">
+  <img src="https://github.com/kokchun/assets/blob/main/sql/10_set_operations_theory.png?raw=true" alt="set operations in duckdb" width="600">
 </a>
 
 
