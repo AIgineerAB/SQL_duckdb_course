@@ -8,6 +8,7 @@ References to additional exercises
 Most of these exercises online could be done directly in the browser. However I recommend creating own SQL scripts and ingesting the data so that you can version control your code. 
 
 ### Query and filtering 
+- [MySQL basic SELECT statement - Exercises, Practice, Solution](https://www.w3resource.com/mysql-exercises/basic-simple-exercises/index.php)
 - [SQL Exercises, Practice, Solution - Retrieve data from tables](https://www.w3resource.com/sql-exercises/sql-retrieve-from-table.php)
 - [SQL Exercises, Practice, Solution - Wildcard and Special operators](https://www.w3resource.com/sql-exercises/sql-wildcard-special-operators.php)
 - [HR Database - SORT FILTER: Exercises, Practice, Solution](https://www.w3resource.com/sql-exercises/sorting-and-filtering-hr/index.php)
@@ -19,6 +20,10 @@ Most of these exercises online could be done directly in the browser. However I 
 
 - [10 GROUP BY SQL Practice Exercises with Solutions](https://learnsql.com/blog/group-by-exercises/#ntro)
 - [SQL Functions and Group by - Exercises, Practice, Solution](https://www.w3resource.com/sql-exercises/sql-aggregate-functions.php)
+
+### Strings
+
+- [MySQL String - Exercises, Practice, Solution](https://www.w3resource.com/mysql-exercises/string-exercises/)
 
 ### Set operations
 - [SQL Exercises, Practice, Solution - UNION](https://www.w3resource.com/sql-exercises/union/sql-union.php)
