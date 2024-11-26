@@ -18,14 +18,16 @@ Go into this [link in kaggle to download food searches on google since 2004](htt
 
 ## Execution order
 
-1. FROM: Determines the source tables.
-2. JOIN: Combines data from multiple tables (if applicable).
-3. WHERE: Filters rows based on specified conditions.
-4. GROUP BY: Groups rows based on specified columns.
-5. HAVING: Filters groups based on aggregate conditions.
-6. SELECT: Selects columns and expressions from the results.
-7. ORDER BY: Orders the final result set.
-8. LIMIT: Limits the number of rows in the output.
+
+
+1. FROM/JOIN
+2. WHERE
+3. GROUP BY
+4. HAVING
+5. SELECT
+6. DISTINCT
+7. ORDER BY
+8. LIMIT/OFFSET
 
 ## Syntax order
 
@@ -50,3 +52,6 @@ From duckdb documentation
 
 - [group by clause](https://duckdb.org/docs/sql/query_syntax/groupby.html)
 - [having clause](https://duckdb.org/docs/sql/query_syntax/having)
+
+Other
+- [Order of execution SQL](https://www.shiksha.com/online-courses/articles/order-of-execution-in-sql/)
