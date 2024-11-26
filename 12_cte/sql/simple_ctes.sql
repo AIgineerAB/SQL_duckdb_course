@@ -44,8 +44,8 @@ ORDER BY cp.total_payment DESC, c.last_name ASC;
 
 
 
-
 -- lists all films and their category
+-- here we place joining inside of CTE block
 WITH film_category AS (
 SELECT
 	f.film_id,
@@ -85,4 +85,6 @@ SELECT
 FROM
 	film_count
 ORDER BY film_count DESC;
+
+
 
