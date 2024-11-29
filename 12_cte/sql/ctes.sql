@@ -38,14 +38,16 @@ SELECT
 	total_payment,
 FROM
 	customer_payment cp
-LEFT JOIN main.customer c ON
+LEFT JOIN main.customer c ON 
 	cp.customer_id = c.customer_id
 ORDER BY cp.total_payment DESC, c.last_name ASC;
 
 
 
 -- lists all films and their category
--- here we place joining inside of CTE block
+-- here we place the joins inside of the CTE itself, it works
+-- to place it outside - pick based on readability and reusability
+-- in general keep the CTEs short 
 WITH film_category AS (
 SELECT
 	f.film_id,
@@ -85,6 +87,4 @@ SELECT
 FROM
 	film_count
 ORDER BY film_count DESC;
-
-
 

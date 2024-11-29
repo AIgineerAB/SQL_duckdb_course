@@ -1,7 +1,17 @@
 # Common table expressions (CTE)
 
-Videos TBD  
+**Part 1 - CTE theory**
 
+<a href="https://www.youtube.com/watch?v=qjX5OAlxlXk" target="_blank">
+<img src="https://github.com/kokchun/assets/blob/main/sql/12_cte_theory.png?raw=true" alt="CTE" width="600">
+</a>
+
+
+**Part 2 - CTE coding**
+
+<a href="https://youtu.be/7iWTGOGtXBk" target="_blank">
+<img src="https://github.com/kokchun/assets/blob/main/sql/12_cte_coding.png?raw=true" alt="CTE" width="600">
+</a>
 
 
 ## Other videos 📹
