@@ -20,7 +20,7 @@ the following contents is good to have some basic grasp in to understand this le
 - working with paths in python
 - working with virtual environment, in this case uv
 
-If these feel unfamiliar to you, you can take a look at one of my [python course](https://github.com/kokchun/Python-course-AI22) for reference. 
+If these feel unfamiliar to you, you can take a look at one of my [introduction python course](https://github.com/kokchun/Python-course-AI22) for reference. 
 
 Start with installing duckdb in your virtual environment
 
