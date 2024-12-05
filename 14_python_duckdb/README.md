@@ -1,4 +1,4 @@
-# Python connect duckdb
+# Python connect duckdb TBD
 
 
 **Using python to connect to duckdb part 1**

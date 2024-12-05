@@ -59,8 +59,36 @@ SELECT
 FROM
     main.payment;
 
--- however this table is not mutated, so we could add a new column to it
--- 
+-- we see that they are views, which are virtual tables  
+SELECT
+    table_name,
+    table_type
+FROM
+    information_schema.tables;
 
-SELECT * FROM main.payment;
+-- we can create a new view 
+CREATE VIEW
+    IF NOT EXISTS main.payment_level AS (
+        SELECT
+            *,
+            CASE
+                WHEN amount < 3.5 THEN 'low cost'
+                WHEN amount < 7.5 THEN 'medium cost'
+                ELSE 'high cost'
+            END AS cost_level
+        FROM
+            main.payment
+    );
 
+SELECT
+    *
+FROM
+    main.payment_level;
+
+SELECT
+    cost_level,
+    COUNT(amount) AS number_per_level
+FROM
+    main.payment_level
+GROUP BY
+    cost_level;
